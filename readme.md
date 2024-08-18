@@ -18,4 +18,4 @@ vim .env
 docker-compose up --build
 ```
 
-4. Докуменация API доступна по адресу https://localhost:8001/api
+4. Докуменация API доступна по адресу http://localhost:8001/docs
